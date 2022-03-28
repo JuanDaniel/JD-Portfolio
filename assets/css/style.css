@@ -1,8 +1,10 @@
 /**
-* Template Name: iPortfolio - v3.7.0
-* Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
+* Template Name: JD-Portfolio
+* Template URL: jd.creadorcubano.com
+* Author: Juan Daniel Santana Rodés
+* Version: 1.0
+* License: GNU General Public License v2 or later
+* License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
 
 /*--------------------------------------------------------------
@@ -111,9 +113,14 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
   text-decoration: none;
 }
+#header .lang-selector {
+  display: block;
+  margin: 0 auto;
+  margin-top: 1rem !important;
+}
 
 #main {
-  margin-left: 300px;
+  margin-left: 320px;
 }
 
 @media (max-width: 1199px) {
@@ -150,16 +157,15 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.3s;
   font-size: 15px;
 }
-.nav-menu a i, .nav-menu a:focus i {
-  font-size: 24px;
-  padding-right: 8px;
+.nav-menu a .icon-menu {
+  margin-right: 8px;
   color: #6f7180;
 }
 .nav-menu a:hover, .nav-menu .active, .nav-menu .active:focus, .nav-menu li:hover > a {
   text-decoration: none;
   color: #fff;
 }
-.nav-menu a:hover i, .nav-menu .active i, .nav-menu .active:focus i, .nav-menu li:hover > a i {
+.nav-menu a:hover .icon-menu, .nav-menu .active .icon-menu, .nav-menu .active:focus .icon-menu, .nav-menu li:hover > a .icon-menu {
   color: #149ddd;
 }
 
@@ -195,13 +201,26 @@ h1, h2, h3, h4, h5, h6 {
 /*--------------------------------------------------------------
 # Hero Section
 --------------------------------------------------------------*/
-#hero {
+#home {
   width: 100%;
-  height: 100vh;
-  /*background: url("../img/hero-bg.jpg") top center;*/
-  background-size: cover;
+  height: 35vh;
+  background: #0f294c;
+  /*background: url("../img/hero-bg.jpg") top center;
+  background-size: cover;*/
 }
-#hero:before {
+#home .intro-grid {
+  height: 30vh;
+  background: url("../img/pattern-dot-grid.svg");
+  background-size: 24px 24px;
+  opacity: .15;
+  position: absolute;
+  top: 8%;
+  right: 0;
+  bottom: 0;
+  left: 30%;
+  z-index: 2;
+}
+/*#home:before {
   content: "";
   background: rgba(5, 13, 24, 0.3);
   position: absolute;
@@ -210,42 +229,42 @@ h1, h2, h3, h4, h5, h6 {
   left: 0;
   right: 0;
   z-index: 1;
-}
-#hero .hero-container {
+}*/
+#home .hero-container {
   position: relative;
-  z-index: 2;
+  z-index: 3;
   min-width: 300px;
 }
-#hero h1 {
+#home h1 {
   margin: 0 0 10px 0;
   font-size: 64px;
   font-weight: 700;
   line-height: 56px;
   color: #fff;
 }
-#hero p {
+#home p {
   color: #fff;
   margin-bottom: 50px;
   font-size: 26px;
   font-family: "Poppins", sans-serif;
 }
-#hero p span {
+#home p span {
   color: #fff;
   padding-bottom: 4px;
   letter-spacing: 1px;
   border-bottom: 3px solid #149ddd;
 }
 @media (min-width: 1024px) {
-  #hero {
+  #home {
     background-attachment: fixed;
   }
 }
 @media (max-width: 768px) {
-  #hero h1 {
+  #home h1 {
     font-size: 28px;
     line-height: 36px;
   }
-  #hero h2 {
+  #home h2 {
     font-size: 18px;
     line-height: 24px;
     margin-bottom: 30px;
@@ -537,6 +556,65 @@ section {
 .portfolio .portfolio-wrap:hover .portfolio-links {
   opacity: 1;
   bottom: 0;
+}
+
+/*--------------------------------------------------------------
+# Publication
+--------------------------------------------------------------*/
+.publication .content h3 {
+  font-weight: 700;
+  font-size: 26px;
+  color: #173b6c;
+}
+.publication .resume-title {
+  font-size: 26px;
+  font-weight: 700;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: #050d18;
+}
+.publication .resume-item {
+  padding: 0 0 20px 20px;
+  margin-top: -2px;
+  border-left: 2px solid #1f5297;
+  position: relative;
+}
+.publication .resume-item h4 {
+  line-height: 18px;
+  font-size: 18px;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-family: "Poppins", sans-serif;
+  color: #050d18;
+  margin-bottom: 10px;
+}
+.publication .resume-item h5 {
+  font-size: 16px;
+  background: #e4edf9;
+  padding: 5px 15px;
+  display: inline-block;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+.publication .resume-item ul {
+  padding-left: 20px;
+}
+.publication .resume-item ul li {
+  padding-bottom: 10px;
+}
+.publication .resume-item:last-child {
+  padding-bottom: 0;
+}
+.publication .resume-item::before {
+  content: "";
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  border-radius: 50px;
+  left: -9px;
+  top: 0;
+  background: #fff;
+  border: 2px solid #1f5297;
 }
 
 /*--------------------------------------------------------------

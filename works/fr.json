@@ -1,0 +1,285 @@
+[
+  {
+    "slug": "cubapaladar-v1",
+    "title": "CubaPaladar (v1)",
+    "year": 2015,
+    "category": "app",
+    "description": "Guide gastronomique des restaurants et des bars à Cuba.",
+    "tags": "android",
+    "thumbnail": "/works/cubapaladar.jpg",
+    "gallery": []
+  },
+  {
+    "slug": "creador-cubano",
+    "title": "Creador Cubano",
+    "year": 2015,
+    "category": "web",
+    "description": "Plate-forme de promotion de l'art contemporain cubain.",
+    "tags": "symfony",
+    "thumbnail": "/works/creadorcubano.jpg",
+    "href": "http://www.creadorcubano.com/",
+    "gallery": []
+  },
+  {
+    "slug": "idiomas-cuba",
+    "title": "Idiomas Cuba",
+    "year": 2016,
+    "category": "web",
+    "description": "Académie web d'apprentissage des langues.",
+    "tags": "wordpress",
+    "thumbnail": "/works/idiomascuba.jpg",
+    "href": "http://www.idiomascuba.com/",
+    "gallery": []
+  },
+  {
+    "slug": "mia-cubarte",
+    "title": "MiaCubarte",
+    "year": 2016,
+    "category": "web",
+    "description": "Page Web de l'artiste en arts visuels Miriannys Montes de Oca.",
+    "tags": "wordpress",
+    "thumbnail": "/works/miacubarte.jpg",
+    "href": "http://www.miacubarte.com/",
+    "gallery": []
+  },
+  {
+    "slug": "amor-cuba",
+    "title": "Amor Cuba",
+    "year": 2017,
+    "category": "web",
+    "description": "Site web pour la réservation de maisons privées à Cuba.",
+    "tags": "symfony",
+    "thumbnail": "/works/amorcuba.jpg",
+    "href": "https://www.amorcuba.com/",
+    "gallery": []
+  },
+  {
+    "slug": "havana-shoko-berri-house",
+    "title": "Havana Shoko & Berri house",
+    "year": 2017,
+    "category": "web",
+    "description": "Chambre d'hôte de Shoko et Berri à La Havane.",
+    "tags": "wordpress",
+    "thumbnail": "/works/shokoberrihouse.jpg",
+    "href": "http://www.havanashokoberrihouse.com/",
+    "gallery": []
+  },
+  {
+    "slug": "teresita-arte-y-vida",
+    "title": "Teresita Arte y Vida",
+    "year": 2018,
+    "category": "web",
+    "description": "Page Web de l'écrivaine et artiste visuelle cubaine Teresita Gómez Vallejo.",
+    "tags": "wordpress",
+    "thumbnail": "/works/teresita.jpg",
+    "href": "http://www.teresitarteyvida.com/",
+    "gallery": []
+  },
+  {
+    "slug": "score",
+    "title": "SCORE",
+    "year": 2018,
+    "category": "web",
+    "description": "Site web du magazine sportif SCORE.",
+    "tags": "wordpress",
+    "thumbnail": "/works/score.jpg",
+    "href": "https://www.scoresportmagazine.com/",
+    "gallery": []
+  },
+  {
+    "slug": "inocencia",
+    "title": "Inocencia",
+    "year": 2019,
+    "category": "web",
+    "description": "« Inocencia la película », site web du film historique cubain qui raconte l'histoire des 8 étudiants en médecine au 19ème siècle.",
+    "tags": "wordpress",
+    "thumbnail": "/works/inocencia.jpg",
+    "href": "http://www.inocenciafilme.cult.cu/",
+    "gallery": []
+  },
+  {
+    "slug": "programa-de-areas",
+    "title": "Programa de Áreas",
+    "year": 2019,
+    "category": "desktop",
+    "description": "Application pour la standardisation de la préparation des programmes architecturaux dans la construction d'hôtels. Actuellement en exploitation dans la succursale de Bouygues Bâtiment International à Cuba.",
+    "tags": "c#, winforms, devexpress",
+    "thumbnail": "/works/programaareas.jpg",
+    "gallery": [
+      "/works/programaareas.jpg",
+      "/works/programaareas-1.jpg",
+      "/works/programaareas-2.jpg"
+    ]
+  },
+  {
+    "slug": "cubamax-tv",
+    "title": "CubamaxTV",
+    "year": 2019,
+    "category": "web",
+    "description": "Site web de la chaîne de télévision CubamaxTV.",
+    "tags": "wordpress",
+    "thumbnail": "/works/cubamaxtv.jpg",
+    "href": "http://cubamaxtv.tv/",
+    "gallery": []
+  },
+  {
+    "slug": "expocuba",
+    "title": "Expocuba",
+    "year": 2019,
+    "category": "web",
+    "description": "Site web de la foire d'Expocuba.",
+    "tags": "wordpress",
+    "thumbnail": "/works/expocuba.jpg",
+    "href": "http://exp.creadorcubano.com/",
+    "gallery": []
+  },
+  {
+    "slug": "buscando-a-casal",
+    "title": "Buscando a Casal",
+    "year": 2020,
+    "category": "web",
+    "description": "Site web du film « Buscando a Casal ».",
+    "tags": "wordpress",
+    "thumbnail": "/works/casal.jpg",
+    "href": "http://www.casal.cult.cu/",
+    "gallery": []
+  },
+  {
+    "slug": "galaxia",
+    "title": "Galaxia",
+    "year": 2020,
+    "category": "web",
+    "description": "Site web de la société de produits laitiers « Galaxia » d'Artemisa, Cuba.",
+    "tags": "wordpress",
+    "thumbnail": "/works/galaxia.jpg",
+    "href": "http://www.lacteosartemisa.cu/",
+    "gallery": []
+  },
+  {
+    "slug": "bb-update-manager",
+    "title": "BBI Update Manager",
+    "year": 2020,
+    "category": "revit_plugin",
+    "description": "Facilite le mécanisme de mise à jour des plugins Revit développés pour la succursale de Bouygues Bâtiment International à Cuba.",
+    "tags": "c#, api revit",
+    "thumbnail": "/works/addin-update.jpg",
+    "doc": "BBI_Revit_Addins_FR_v1.0.pdf",
+    "gallery": [
+      "/works/addin-update.jpg",
+      "/works/addin-update-1.jpg"
+    ]
+  },
+  {
+    "slug": "import-key-schedule",
+    "title": "Import Key Schedule",
+    "year": 2020,
+    "category": "revit_plugin",
+    "description": "Permet l'importation et la synchronisation des nomenclatures utilisées dans le maquette Revit.",
+    "tags": "c#, api revit",
+    "thumbnail": "/works/addin-import.jpg",
+    "doc": "BBI_Revit_Addins_FR_v1.0.pdf",
+    "gallery": []
+  },
+  {
+    "slug": "replace-value-parameter",
+    "title": "Replace Value Parameter",
+    "year": 2020,
+    "category": "revit_plugin",
+    "description": "Facilite l'attribution ou le remplacement d'une valeur de paramètre associée au Room.",
+    "tags": "c#, api revit",
+    "thumbnail": "/works/addin-replace.jpg",
+    "doc": "BBI_Revit_Addins_FR_v1.0.pdf",
+    "gallery": [
+      "/works/addin-replace.jpg",
+      "/works/addin-replace-1.jpg"
+    ]
+  },
+  {
+    "slug": "center-gravity",
+    "title": "Center Gravity",
+    "year": 2020,
+    "category": "revit_plugin",
+    "description": "C'est le résultat d'un besoin du département de structure afin d'identifier graphiquement le centre de gravité des modules utilisés dans la construction modulaire.",
+    "tags": "c#, api revit",
+    "thumbnail": "/works/addin-gravity.jpg",
+    "doc": "BBI_Revit_Addins_FR_v1.0.pdf",
+    "href": "https://apps.autodesk.com/RVT/zh-CN/Detail/Index?id=2914827711437845009&appLang=en&os=Win64",
+    "gallery": [
+      "/works/addin-gravity-1.jpg",
+      "/works/addin-gravity.jpg"
+    ]
+  },
+  {
+    "slug": "export-tabla-areas",
+    "title": "Export Tabla Areas",
+    "year": 2021,
+    "category": "revit_plugin",
+    "description": "Solution intégrale pour l'extraction des surfaces. Il est également composé d'utilitaires qui permettent à l'utilisateur d'identifier les erreurs et les incohérences dans les données du projet.",
+    "tags": "c#, api revit",
+    "thumbnail": "/works/addin-export.jpg",
+    "doc": "BBI_Revit_Addins_FR_v1.0.pdf",
+    "gallery": [
+      "/works/addin-export.jpg",
+      "/works/addin-export-1.jpg",
+      "/works/addin-export-2.jpg",
+      "/works/addin-export-3.jpg",
+      "/works/addin-export-4.jpg",
+      "/works/addin-export-5.jpg"
+    ]
+  },
+  {
+    "slug": "aerovaradero-sa",
+    "title": "Aerovaradero S.A.",
+    "year": 2021,
+    "category": "web",
+    "description": "Site web de la société spécialisée dans les activités de fret aérien national et international.",
+    "tags": "wordpress, api rest",
+    "thumbnail": "/works/aerovaradero.jpg",
+    "href": "https://www.aerovaradero.com.cu/",
+    "gallery": []
+  },
+  {
+    "slug": "rpi",
+    "title": "RPI",
+    "year": 2021,
+    "category": "web",
+    "description": "Magazine de Politique internationale (Institut universitaire de relations internationales).",
+    "tags": "open journal systems",
+    "thumbnail": "/works/rpi.jpg",
+    "href": "https://rpi.isri.cu/",
+    "gallery": []
+  },
+  {
+    "slug": "redint",
+    "title": "REDINT",
+    "year": 2021,
+    "category": "web",
+    "description": "Réseau cubain de chercheurs en relations internationales.",
+    "tags": "wordpress, nextcloud",
+    "thumbnail": "/works/redint.jpg",
+    "href": "https://redint.isri.cu/",
+    "gallery": []
+  },
+  {
+    "slug": "cna",
+    "title": "CNA",
+    "year": 2021,
+    "category": "web",
+    "description": "Revue Cuadernos de Nuestra América (Centre de recherche sur les politiques internationales).",
+    "tags": "open journal systems",
+    "thumbnail": "/works/cna.jpg",
+    "href": "https://cna.cipi.cu/",
+    "gallery": []
+  },
+  {
+    "slug": "cipi",
+    "title": "CIPI",
+    "year": 2022,
+    "category": "web",
+    "description": "Site web du Centre de recherches sur les politiques internationales.",
+    "tags": "wordpress",
+    "thumbnail": "/works/cipi.jpg",
+    "href": "https://www.cipi.cu/",
+    "gallery": []
+  }
+]
